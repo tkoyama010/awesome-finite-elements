@@ -5,3 +5,12 @@
 This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
+
+- [Awesome mechanical FEA \*](#awesome-mechanical-fea-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
