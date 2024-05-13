@@ -6,11 +6,15 @@ This list is a collection of tools, projects, images, and resources conforming t
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
+## Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
-
-- [Awesome mechanical FEA \*](#awesome-mechanical-fea-)
+- [Tutorial](#tutorial)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Tutorial
+
+- [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours with FEniCSx.
