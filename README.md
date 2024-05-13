@@ -14,3 +14,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Awesome mechanical FEA \*](#awesome-mechanical-fea-)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Tutorial
+
+- [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours with FEniCSx.
