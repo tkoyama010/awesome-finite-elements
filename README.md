@@ -21,12 +21,12 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Tutorial
 
-- [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours with FEniCSx.
+- [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours with FEniCSx. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Packages
 
-- [FElupe](https://felupe.readthedocs.io/en/latest/) - 🔍 finite element analysis for continuum mechanics of solid bodies
+- [FElupe](https://felupe.readthedocs.io/en/latest/) - 🔍 finite element analysis for continuum mechanics of solid bodies ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Encyclopedia
 
-- [DefElement](https://defelement.com/) - an encyclopedia of finite element definitions
+- [DefElement](https://defelement.com/) - an encyclopedia of finite element definitions ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
