@@ -18,3 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Tutorial
 
 - [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours with FEniCSx.
+
+## Packages
+
+- [FElupe](https://github.com/adtzlr/felupe) - 🔍 finite element analysis for continuum mechanics of solid bodies
