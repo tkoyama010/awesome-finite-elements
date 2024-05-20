@@ -15,6 +15,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Tutorial](#tutorial)
 - [Packages](#packages)
+- [Encyclopedia](#encyclopedia)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
