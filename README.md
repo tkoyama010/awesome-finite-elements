@@ -26,6 +26,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Packages
 
 - [FElupe](https://felupe.readthedocs.io/en/latest/) - 🔍 finite element analysis for continuum mechanics of solid bodies ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [Symfem](https://symfem.readthedocs.io/en/latest/) - A symbolic finite element definition library ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Encyclopedia
 
