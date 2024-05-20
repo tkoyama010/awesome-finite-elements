@@ -25,3 +25,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Packages
 
 - [FElupe](https://github.com/adtzlr/felupe) - 🔍 finite element analysis for continuum mechanics of solid bodies
+
+## Encyclopedia
+
+- [DefElement](https://github.com/mscroggs/defelement.com) - an encyclopedia of finite element definitions
