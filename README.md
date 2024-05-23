@@ -21,16 +21,16 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Tutorial
 
-- [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours with FEniCSx. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) - A reimplementation of the Springer book, covering new topics as well as transitioning from dolfin to dolfinx ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours with FEniCSx.
+- [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) - A reimplementation of the Springer book, covering new topics as well as transitioning from dolfin to dolfinx
 
 ## Packages
 
-- [FElupe](https://felupe.readthedocs.io/en/latest/) - 🔍 finite element analysis for continuum mechanics of solid bodies ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- [Symfem](https://symfem.readthedocs.io/en/latest/) - A symbolic finite element definition library ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- [GetFEM](https://getfem.org) - Framework for solving systems of coupled nonlinear PDEs with the finite element method. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-- [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) - Simple finite element assemblers ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [FElupe](https://felupe.readthedocs.io/en/latest/) - 🔍 finite element analysis for continuum mechanics of solid bodies
+- [Symfem](https://symfem.readthedocs.io/en/latest/) - A symbolic finite element definition library
+- [GetFEM](https://getfem.org) - Framework for solving systems of coupled nonlinear PDEs with the finite element method.
+- [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) - Simple finite element assemblers
 
 ## Encyclopedia
 
-- [DefElement](https://defelement.com/) - an encyclopedia of finite element definitions ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [DefElement](https://defelement.com/) - an encyclopedia of finite element definitions
