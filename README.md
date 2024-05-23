@@ -22,7 +22,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Tutorial
 
 - [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours with FEniCSx. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) - A reimplementation of the Springer book, covering new topics as well as transitioning from dolfin to dolfinx ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) - A reimplementation of the Springer book, covering new topics as well as transitioning from dolfin to dolfinx ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
 ## Packages
 
