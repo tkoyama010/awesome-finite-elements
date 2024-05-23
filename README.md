@@ -21,8 +21,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Tutorial
 
-- [Numerical Tours of Computational Mechanics with FEniCSx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours. ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
-- [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) - A reimplementation of the Springer book, covering new topics as well as transitioning from dolfin to dolfinx ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+- [comet-fenicsx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours. ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+- [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) - This is the source code for the dolfinx-tutorial webpage. ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 
 ## Packages
 
