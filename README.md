@@ -31,6 +31,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [GetFEM](https://getfem.org) - Framework for solving systems of coupled nonlinear PDEs with the finite element method. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683)
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) - Simple finite element assemblers ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [PyVista](https://docs.pyvista.org/version/stable/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+- [CadQuery](https://cadquery.readthedocs.io/en/latest/) - A python parametric CAD scripting framework based on OCCT ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
 ## Encyclopedia
 
