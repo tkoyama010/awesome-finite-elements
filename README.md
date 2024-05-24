@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Tutorial](#tutorial)
+- [CAD](#cad)
 - [Packages](#packages)
 - [Encyclopedia](#encyclopedia)
 
