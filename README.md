@@ -37,6 +37,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [PyVista](https://docs.pyvista.org/version/stable/) - 3D plotting and mesh analysis through a streamlined interface for VTK ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [Symfem](https://symfem.readthedocs.io/en/latest/) - A symbolic finite element definition library ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [pyelmer](https://github.com/nemocrys/pyelmer) - A python interface to Elmer. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [pyGIMLi](https://github.com/gimli-org/gimli) - Geophysical Inversion and Modeling Library 🌍 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) - Simple finite element assemblers ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Tutorial
