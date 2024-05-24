@@ -5,7 +5,7 @@
 > Typical problem areas of interest include structural analysis, heat transfer, fluid flow, mass transport, and electromagnetic potential.
 
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/github/explore/24e471cff06c93eaa48da00503f6992e6a146f1b/topics/finite-element-method/finite-element-method.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/FAE_visualization.jpg">
 </h3>
 
 This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
