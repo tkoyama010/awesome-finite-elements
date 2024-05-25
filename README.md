@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [CAD](#cad)
+- [Mesh](#mesh)
 - [Python](#python)
 - [Tutorial](#tutorial)
 - [Others](#others)
