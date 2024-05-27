@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [CAD](#cad)
+- [Julia](#julia)
 - [Mesh](#mesh)
 - [Python](#python)
 - [Tutorial](#tutorial)
@@ -29,6 +30,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [CadQuery](https://cadquery.readthedocs.io/en/latest/) - A python parametric CAD scripting framework based on OCCT ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [FreeCAD](https://www.freecad.org/) - A free and opensource multiplatform 3D parametric modeler. ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## Julia
+
+- [Gridap.jl](https://github.com/gridap/Gridap.jl) - Grid-based approximation of partial differential equations in Julia ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ## Mesh
 
