@@ -20,6 +20,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [CAD](#cad)
 - [Julia](#julia)
 - [Mesh](#mesh)
+- [PDE Solver](#pde-solver)
 - [Python](#python)
 - [Tutorial](#tutorial)
 - [Others](#others)
@@ -38,6 +39,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Mesh
 
 - [t8code](https://github.com/DLR-AMR/t8code) - Parallel algorithms and data structures for tree-based AMR with arbitrary element shapes. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## PDE Solver
+
+- [FeenoX](https://github.com/seamplex/feenox) - Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool. ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Python
 
