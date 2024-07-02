@@ -1,6 +1,5 @@
 # Awesome Finite Element Method (FEM) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 > A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering.
 > The finite element method (FEM) is a numerical method for solving problems in engineering and mathematical physics.
 > Typical problem areas of interest include structural analysis, heat transfer, fluid flow, mass transport, and electromagnetic potential.
