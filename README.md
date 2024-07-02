@@ -24,7 +24,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Python](#python)
 - [Tutorial](#tutorial)
 - [Others](#others)
-- [Contributors ✨](#contributors-)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
