@@ -1,6 +1,6 @@
 {
   "files": [
-    "README.md"
+    "CONTRIBUTORS.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -14,7 +14,8 @@
       "profile": "https://github.com/tkoyama010",
       "contributions": [
         "ideas",
-        "doc"
+        "doc",
+        "maintenance"
       ]
     }
   ],
