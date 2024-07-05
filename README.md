@@ -22,6 +22,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Julia](#julia)
 - [Mesh](#mesh)
 - [PDE Solver](#pde-solver)
+- [Parallel Computing](#parallel-computing)
 - [Python](#python)
 - [Tutorial](#tutorial)
 - [Others](#others)
