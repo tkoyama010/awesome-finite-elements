@@ -22,6 +22,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Julia](#julia)
 - [Mesh](#mesh)
 - [PDE Solver](#pde-solver)
+- [Parallel Computing](#parallel-computing)
 - [Python](#python)
 - [Tutorial](#tutorial)
 - [Others](#others)
@@ -48,6 +49,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## PDE Solver
 
 - [FeenoX](https://github.com/seamplex/feenox) - Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool. ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+## Parallel Computing
+
+- [Netgen/NGSolve](https://ngsolve.org/) - Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb)
 
 ## Python
 
