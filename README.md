@@ -20,6 +20,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [CAD](#cad)
+- [FEniCSx](#fenicsx)
 - [High Performance Computing](#high-performance-computing)
 - [Julia](#julia)
 - [Mesh](#mesh)
@@ -35,6 +36,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [CadQuery](https://cadquery.readthedocs.io/en/latest/) - A python parametric CAD scripting framework based on OCCT ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [FreeCAD](https://www.freecad.org/) - A free and opensource multiplatform 3D parametric modeler. ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+
+## FEniCSx
+
+- [dolfinx](https://github.com/FEniCS/dolfinx) - Next generation FEniCS problem solving environment ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
 ## High Performance Computing
 
