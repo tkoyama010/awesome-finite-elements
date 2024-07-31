@@ -20,6 +20,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [CAD](#cad)
+- [FEniCSx](#fenicsx)
 - [High Performance Computing](#high-performance-computing)
 - [Julia](#julia)
 - [Mesh](#mesh)
