@@ -34,6 +34,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [CadQuery](https://cadquery.readthedocs.io/en/latest/) - A python parametric CAD scripting framework based on OCCT ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [FreeCAD](https://www.freecad.org/) - A free and opensource multiplatform 3D parametric modeler. ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+- [Shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects. ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
 ## FEniCSx
 
