@@ -18,7 +18,8 @@
         "doc",
         "maintenance",
         "infra",
-        "code"
+        "code",
+        "review"
       ]
     },
     {
