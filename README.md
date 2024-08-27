@@ -20,11 +20,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [CAD](#cad)
 - [FEniCSx](#fenicsx)
 - [High Performance Computing](#high-performance-computing)
-- [Julia](#julia)
 - [Mesh](#mesh)
 - [PDE Solver](#pde-solver)
-- [Parallel Computing](#parallel-computing)
-- [Python](#python)
+- [Visualization](#visualization)
 - [Tutorial](#tutorial)
 - [Others](#others)
 
