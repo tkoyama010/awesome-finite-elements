@@ -1,4 +1,3 @@
-
 # Our Definition of Awesome
 
 If you want a project to be included in this `awesome` list, please check our definition of awesome. After all, it's a curation, not a collection. We base it loosely on the [manifesto of the Journal of Open Source Software (JOSS)](https://joss.readthedocs.io/en/latest/review_criteria.html). We say loosely, because their standards are higher. Our definition of awesome is more like guidelines to aim for and less like a strict set of rules. If you're new to coding and aren't sure if something qualifies, submit a pull request following the [contribution guidelines](contributing.md) and maintainers will help you out!
