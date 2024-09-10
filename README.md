@@ -38,6 +38,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [pygmsh](https://github.com/nschloe/pygmsh) - pygmsh combines the power of Gmsh with the versatility of Python. It provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily. ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [t8code](https://github.com/DLR-AMR/t8code) - Parallel algorithms and data structures for tree-based AMR with arbitrary element shapes. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
+## Others
+
+- [DefElement](https://defelement.com/) - an encyclopedia of finite element definitions ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+
 ## PDE Solver
 
 - [dolfinx](https://github.com/FEniCS/dolfinx) - Next generation FEniCS problem solving environment ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
@@ -51,15 +55,11 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) - Simple finite element assemblers ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [Symfem](https://symfem.readthedocs.io/en/latest/) - A symbolic finite element definition library ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
-## Visualization
-
-- [PyVista](https://docs.pyvista.org/version/stable/) - 3D plotting and mesh analysis through a streamlined interface for VTK ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-
 ## Tutorial
 
 - [comet-fenicsx](https://bleyerj.github.io/comet-fenicsx/) - COmputational MEchanics numerical Tours. ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) - This is the source code for the dolfinx-tutorial webpage. ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
-## Others
+## Visualization
 
-- [DefElement](https://defelement.com/) - an encyclopedia of finite element definitions ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+- [PyVista](https://docs.pyvista.org/version/stable/) - 3D plotting and mesh analysis through a streamlined interface for VTK ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
