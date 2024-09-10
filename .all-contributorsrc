@@ -6,6 +6,7 @@
   "commit": false,
   "commitType": "docs",
   "commitConvention": "angular",
+  "contributorsSortAlphabetically": true,
   "contributors": [
     {
       "login": "tkoyama010",
@@ -16,7 +17,9 @@
         "ideas",
         "doc",
         "maintenance",
-        "infra"
+        "infra",
+        "code",
+        "review"
       ]
     },
     {
