@@ -19,7 +19,8 @@
         "maintenance",
         "infra",
         "code",
-        "review"
+        "review",
+        "design"
       ]
     },
     {
