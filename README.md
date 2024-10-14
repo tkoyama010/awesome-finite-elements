@@ -64,3 +64,4 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Visualization
 
 - [PyVista](https://docs.pyvista.org/version/stable/) - 3D plotting and mesh analysis through a streamlined interface for VTK ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+- [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
