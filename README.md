@@ -47,6 +47,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## PDE Solver
 
 - [dolfinx](https://github.com/FEniCS/dolfinx) – Next generation FEniCS problem solving environment ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+- [EasyFEA](https://github.com/matnoel/EasyFEA) – EasyFEA is a user-friendly Python library that simplifies finite element analysis.
 - [FeenoX](https://github.com/seamplex/feenox) – Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool. ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 - [FElupe](https://felupe.readthedocs.io/en/latest/) – 🔍 finite element analysis for continuum mechanics of solid bodies ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 - [GetFEM](https://getfem.org) – Framework for solving systems of coupled nonlinear PDEs. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
@@ -56,7 +57,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [PyMAPDL](https://github.com/ansys/pymapdl) – The PyMAPDL project supports Pythonic access to MAPDL. ![pyansys](https://img.shields.io/badge/Py-Ansys-ffc107.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) – Simple finite element assemblers ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-- [EasyFEA](https://github.com/matnoel/EasyFEA) – EasyFEA is a user-friendly Python library that simplifies finite element analysis.
 
 ## Tutorial
 
