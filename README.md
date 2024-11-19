@@ -47,6 +47,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## PDE Solver
 
 - [dolfinx](https://github.com/FEniCS/dolfinx) – Next generation FEniCS problem solving environment ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+- [EasyFEA](https://github.com/matnoel/EasyFEA) – EasyFEA is a user-friendly Python library that simplifies finite element analysis.
 - [FeenoX](https://github.com/seamplex/feenox) – Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool. ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 - [FElupe](https://felupe.readthedocs.io/en/latest/) – 🔍 finite element analysis for continuum mechanics of solid bodies ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 - [GetFEM](https://getfem.org) – Framework for solving systems of coupled nonlinear PDEs. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
