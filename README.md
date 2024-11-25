@@ -42,7 +42,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Others
 
-- [DefElement](https://defelement.com/) – an encyclopedia of finite element definitions
+- [DefElement](https://defelement.org/) – an encyclopedia of finite element definitions
 
 ## PDE Solver
 
