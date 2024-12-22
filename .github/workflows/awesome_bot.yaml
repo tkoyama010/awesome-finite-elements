@@ -17,3 +17,8 @@ jobs:
         run: |
           gem install awesome_bot
           awesome_bot --allow-redirect --request-delay 1 README.md
+  
+  - repo: https://github.com/woodruffw/zizmor-pre-commit
+    rev: v0.8.0
+    hooks:
+      - id: zizmor
