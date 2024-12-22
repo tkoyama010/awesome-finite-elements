@@ -17,4 +17,3 @@ jobs:
         run: |
           gem install awesome_bot
           awesome_bot --allow-redirect --request-delay 1 README.md
-
