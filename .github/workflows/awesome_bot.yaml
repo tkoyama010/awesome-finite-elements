@@ -4,11 +4,14 @@ on:
     branches: ["*"]
   pull_request:
     branches: ["*"]
+permissions: {}
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
       - name: Set up Ruby 2.6
         uses: ruby/setup-ruby@v1
         with:
