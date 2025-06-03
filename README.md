@@ -36,7 +36,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Gmsh](https://gitlab.onelab.info/gmsh/gmsh) – A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
 - [Netgen/NGSolve](https://ngsolve.org/) – Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily.
-- [pyGIMLi](https://github.com/gimli-org/gimli) – Geophysical Inversion and Modeling Library 🌍
+- [pyGIMLi](https://github.com/gimli-org/gimli) – Geophysical Inversion and Modeling Library 
 - [pygmsh](https://github.com/nschloe/pygmsh) – pygmsh combines the power of Gmsh with the versatility of Python. It provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily.
 - [t8code](https://github.com/DLR-AMR/t8code) – Parallel algorithms and data structures for tree-based AMR with arbitrary element shapes.
 
@@ -48,7 +48,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [dolfinx](https://github.com/FEniCS/dolfinx) – Next generation FEniCS problem solving environment
 - [FeenoX](https://github.com/seamplex/feenox) – Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool.
-- [FElupe](https://felupe.readthedocs.io/en/latest/) – 🔍 finite element analysis for continuum mechanics of solid bodies
+- [FElupe](https://felupe.readthedocs.io/en/latest/) –  finite element analysis for continuum mechanics of solid bodies
 - [GetFEM](https://getfem.org) – Framework for solving systems of coupled nonlinear PDEs.
 - [Gridap.jl](https://github.com/gridap/Gridap.jl) – Grid-based approximation of partial differential equations in Julia
 - [MFEM](https://mfem.org/) – Lightweight, general, scalable C++ library for finite element methods
@@ -56,6 +56,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [PyMAPDL](https://github.com/ansys/pymapdl) – The PyMAPDL project supports Pythonic access to MAPDL.
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) – Simple finite element assemblers
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
+
+## Topology Optimization
+
+- [jax-fem](https://github.com/deepmodeling/jax-fem) – Differentiable Finite Element Method with JAX
 
 ## Tutorial
 
