@@ -61,6 +61,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Tutorial
 
 - [comet-fenicsx](https://bleyerj.github.io/comet-fenicsx/) – COmputational MEchanics numerical Tours.
+- [fenics-sz](https://github.com/cianwilson/fenics-sz) – Jupyter Book and computational repository for modeling subduction zones using FEniCSx.
 - [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) – This is the source code for the dolfinx-tutorial webpage.
 
 ## Visualization
