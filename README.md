@@ -56,6 +56,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [PyMAPDL](https://github.com/ansys/pymapdl) – The PyMAPDL project supports Pythonic access to MAPDL.
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) – Simple finite element assemblers
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
+- [Xara](https://github.com/peer-open-source/xara) – A batteries-included Python package for fast nonlinear finite element analysis (solid mechanics) ![Python](media/icon/python.png)
 
 ## Tutorial
 
