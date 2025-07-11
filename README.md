@@ -61,6 +61,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Tutorial
 
 - [comet-fenicsx](https://bleyerj.github.io/comet-fenicsx/) – COmputational MEchanics numerical Tours.
+- [opensees-gallery](https://stairlab.github.io/opensees-gallery/) - OpenSees features state-of-the-art finite element formulations and solution algorithms, including mixed formulations for beams and solids, over 200 material models, and an extensive collection of continuation algorithms to solve highly nonlinear problems.
 - [The DOLFINx tutorial](https://github.com/jorgensd/dolfinx-tutorial) – This is the source code for the dolfinx-tutorial webpage.
 
 ## Visualization
