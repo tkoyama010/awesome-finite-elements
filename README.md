@@ -21,6 +21,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Mesh](#mesh)
 - [Others](#others)
 - [PDE Solver](#pde-solver)
+- [Physics-Informed Neural Networks](#physics-informed-neural-networks)
 - [Tutorial](#tutorial)
 - [Visualization](#visualization)
 
@@ -58,6 +59,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with SciPy
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
 - [Xara](https://github.com/peer-open-source/xara) – A batteries-included Python package for fast nonlinear finite element analysis (solid mechanics) ![Python](media/icon/python.png)
+
+## Physics-Informed Neural Networks
+
+- [pinns_for_comp_mech](https://github.com/imcs-compsim/pinns_for_comp_mech) – Implementation of Physics-Informed Neural Networks for Computational Mechanics based on the DeepXDE package.
 
 ## Tutorial
 
