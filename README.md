@@ -36,10 +36,11 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Mesh
 
 - [Gmsh](https://gitlab.onelab.info/gmsh/gmsh) – A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
-- [Netgen/NGSolve](https://ngsolve.org/) – Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily.
-- [pyGIMLi](https://github.com/gimli-org/gimli) – Geophysical Inversion and Modeling Library 🌍
-- [pygmsh](https://github.com/nschloe/pygmsh) – pygmsh combines the power of Gmsh with the versatility of Python. It provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily.
-- [t8code](https://github.com/DLR-AMR/t8code) – Parallel algorithms and data structures for tree-based AMR with arbitrary element shapes.
+- [Netgen/NGSolve](https://ngsolve.org/) - Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb)
+- [pandamesh](https://github.com/Deltares/pandamesh) - 🐼 From geodataframe to mesh ▦ ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+- [pyGIMLi](https://github.com/gimli-org/gimli) - Geophysical Inversion and Modeling Library 🌍 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+- [pygmsh](https://github.com/nschloe/pygmsh) - pygmsh combines the power of Gmsh with the versatility of Python. It provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily. ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+- [t8code](https://github.com/DLR-AMR/t8code) - Parallel algorithms and data structures for tree-based AMR with arbitrary element shapes. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 ## Others
 
