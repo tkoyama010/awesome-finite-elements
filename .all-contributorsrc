@@ -19,7 +19,8 @@
         "maintenance",
         "infra",
         "code",
-        "review"
+        "review",
+        "design"
       ]
     },
     {
@@ -38,6 +39,15 @@
       "profile": "https://pre-commit.com",
       "contributions": [
         "maintenance"
+      ]
+    },
+    {
+      "login": "wensley-rushing",
+      "name": "Wensley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179432206?v=4",
+      "profile": "https://github.com/wensley-rushing",
+      "contributions": [
+        "doc"
       ]
     }
   ],
