@@ -39,6 +39,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Netgen/NGSolve](https://ngsolve.org/) – Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily.
 - [pyGIMLi](https://github.com/gimli-org/gimli) – Geophysical Inversion and Modeling Library 🌍
 - [pygmsh](https://github.com/nschloe/pygmsh) – pygmsh combines the power of Gmsh with the versatility of Python. It provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily.
+- [scikit-gmsh](https://github.com/pyvista/scikit-gmsh) - Scikit for Gmsh to generate 3D finite element mesh. ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - [t8code](https://github.com/DLR-AMR/t8code) – Parallel algorithms and data structures for tree-based AMR with arbitrary element shapes.
 
 ## Others
