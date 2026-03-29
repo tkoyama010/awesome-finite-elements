@@ -53,6 +53,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [GetFEM](https://getfem.org) – Framework for solving systems of coupled nonlinear PDEs.
 - [Gridap.jl](https://github.com/gridap/Gridap.jl) – Grid-based approximation of partial differential equations in Julia
 - [MFEM](https://mfem.org/) – Lightweight, general, scalable C++ library for finite element methods
+- [PyChrono](https://github.com/projectchrono/chrono) – Python library that wraps the Chrono C++ simulation library Explore robotics and AI using PyChrono in the Python ecosystem
 - [pyelmer](https://github.com/nemocrys/pyelmer) – A python interface to Elmer.
 - [PyMAPDL](https://github.com/ansys/pymapdl) – The PyMAPDL project supports Pythonic access to MAPDL.
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) – Simple finite element assemblers
