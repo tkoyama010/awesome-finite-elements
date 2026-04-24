@@ -35,7 +35,7 @@ repos:
       - id: requirements-txt-fixer
       - id: trailing-whitespace
   - repo: https://github.com/thlorenz/doctoc
-    rev: v2.4.0
+    rev: v2.4.1
     hooks:
       - id: doctoc
         exclude: ^.github/
@@ -47,7 +47,7 @@ repos:
         language: python
         files: README.md
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.15.10
+    rev: v0.15.11
     hooks:
       - id: ruff
         args: [--fix]
@@ -60,6 +60,6 @@ repos:
         args: [--option, "reorder_arrays=true", --option, "reorder_keys=true"]
 
   - repo: https://github.com/woodruffw/zizmor-pre-commit
-    rev: v1.24.0
+    rev: v1.24.1
     hooks:
       - id: zizmor
