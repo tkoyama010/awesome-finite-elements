@@ -61,6 +61,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with SciPy
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
 - [Xara](https://github.com/peer-open-source/xara) – A batteries-included Python package for fast nonlinear finite element analysis (solid mechanics) ![Python](media/icon/python.png)
+- [QF Solver](https://github.com/emptiesvoid-cloud/QF_solver) - Open-source Python finite-element solver for structural mechanics and dynamics, with explicit verification and reproducibility evidence.
 
 ## Physics-Informed Neural Networks
 
