@@ -57,6 +57,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) – A contact solver for physics-based simulations involving shells, solids and rods.
 - [pyelmer](https://github.com/nemocrys/pyelmer) – A python interface to Elmer.
 - [PyMAPDL](https://github.com/ansys/pymapdl) – The PyMAPDL project supports Pythonic access to MAPDL.
+- [QF Solver](https://github.com/emptiesvoid-cloud/QF_solver) – Open-source Python finite-element solver for structural mechanics and dynamics, with explicit verification and reproducibility evidence ![Python](media/icon/python.png)
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) – Simple finite element assemblers
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with SciPy
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
