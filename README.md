@@ -48,6 +48,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## PDE Solver
 
+- [AgentFEM](https://github.com/haoming-luo/agentfem) – Python finite-element workflows built on FEniCSx for structural mechanics, heat transfer, and human–AI collaboration
 - [dolfinx](https://github.com/FEniCS/dolfinx) – Next generation FEniCS problem solving environment
 - [FeenoX](https://github.com/seamplex/feenox) – Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool.
 - [FElupe](https://felupe.readthedocs.io/en/latest/) – 🔍 finite element analysis for continuum mechanics of solid bodies
@@ -62,8 +63,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with SciPy
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
 - [Xara](https://github.com/peer-open-source/xara) – A batteries-included Python package for fast nonlinear finite element analysis (solid mechanics) ![Python](media/icon/python.png)
-- [AgentFEM](https://github.com/haoming-luo/agentfem) – Python finite-element workflows built on FEniCSx for structural mechanics, heat transfer, and human–AI collaboration
-
 
 ## Physics-Informed Neural Networks
 
