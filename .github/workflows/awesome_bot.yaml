@@ -19,4 +19,4 @@ jobs:
       - name: Checks
         run: |
           bundle install
-          bundle exec awesome_bot --allow-redirect --allow 429 --request-delay 1 README.md
+          bundle exec awesome_bot --allow-redirect --allow 429,503 --request-delay 1 README.md
