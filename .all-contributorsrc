@@ -19,7 +19,8 @@
         "maintenance",
         "infra",
         "code",
-        "review"
+        "review",
+        "design"
       ]
     },
     {
@@ -38,6 +39,33 @@
       "profile": "https://pre-commit.com",
       "contributions": [
         "maintenance"
+      ]
+    },
+    {
+      "login": "wensley-rushing",
+      "name": "Wensley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179432206?v=4",
+      "profile": "https://github.com/wensley-rushing",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "emptiesvoid-cloud",
+      "name": "emptiesvoid-cloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284553195?v=4",
+      "profile": "https://github.com/emptiesvoid-cloud",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "haoming-luo",
+      "name": "haoming-luo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155395792?v=4",
+      "profile": "https://github.com/haoming-luo",
+      "contributions": [
+        "doc"
       ]
     }
   ],
