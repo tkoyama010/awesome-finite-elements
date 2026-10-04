@@ -53,6 +53,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [dolfinx](https://github.com/FEniCS/dolfinx) – Next generation FEniCS problem solving environment
 - [FeenoX](https://github.com/seamplex/feenox) – Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool.
 - [FElupe](https://felupe.readthedocs.io/en/latest/) – 🔍 finite element analysis for continuum mechanics of solid bodies
+- [Femwell](https://github.com/HelgeGehring/femwell) – FEM mode solver for photonic waveguides
 - [GetFEM](https://getfem.org) – Framework for solving systems of coupled nonlinear PDEs.
 - [Gridap.jl](https://github.com/gridap/Gridap.jl) – Grid-based approximation of partial differential equations in Julia
 - [MFEM](https://mfem.org/) – Lightweight, general, scalable C++ library for finite element methods
