@@ -42,6 +42,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [pygmsh](https://github.com/nschloe/pygmsh) – pygmsh combines the power of Gmsh with the versatility of Python. It provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily.
 - [scikit-gmsh](https://github.com/pyvista/scikit-gmsh) – A Python package for smoothly connecting PyVista and Gmsh.
 - [t8code](https://github.com/DLR-AMR/t8code) – Parallel algorithms and data structures for tree-based AMR with arbitrary element shapes.
+- [caexfer](https://github.com/cmccomb/caexfer) – Rust library and CLI for validating and transferring finite-element meshes and results across supported CAE formats
 
 ## Others
 
