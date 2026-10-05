@@ -64,6 +64,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) – Simple finite element assemblers
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with SciPy
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
+- [TrussMe](https://github.com/cmccomb/TrussMe) – Python library for linear truss analysis and sizing optimization, including member forces, deflections, mass, and safety factors
 - [Xara](https://github.com/peer-open-source/xara) – A batteries-included Python package for fast nonlinear finite element analysis (solid mechanics) ![Python](media/icon/python.png)
 
 ## Physics-Informed Neural Networks
