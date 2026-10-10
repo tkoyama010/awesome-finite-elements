@@ -30,6 +30,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## CAD
 
+- [build123d](https://github.com/gumyr/build123d) – A python CAD modeling library for parametric 3D design, built on OCCT and the CadQuery ecosystem.
 - [CadQuery](https://cadquery.readthedocs.io/en/latest/) – A python parametric CAD scripting framework based on OCCT
 - [FreeCAD](https://www.freecad.org/) – A free and opensource multiplatform 3D parametric modeler.
 - [Shapely](https://github.com/shapely/shapely) – Manipulation and analysis of geometric objects.
