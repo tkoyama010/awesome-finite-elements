@@ -49,7 +49,9 @@
     chip.addEventListener("click", function () {
       activeCategory = chip.getAttribute("data-filter");
       chips.forEach(function (other) {
-        other.classList.toggle("chip--active", other === chip);
+        var selected = other === chip;
+        other.classList.toggle("chip--active", selected);
+        other.setAttribute("aria-pressed", selected ? "true" : "false");
       });
       apply();
     });

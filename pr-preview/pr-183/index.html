@@ -57,14 +57,14 @@
           autocomplete="off"
         />
       </label>
-      <div class="chips" id="chips">        <button class="chip chip--active" type="button" data-filter="all">All</button>
-        <button class="chip" type="button" data-filter="CAD">CAD</button>
-        <button class="chip" type="button" data-filter="Mesh">Mesh</button>
-        <button class="chip" type="button" data-filter="Others">Others</button>
-        <button class="chip" type="button" data-filter="PDE Solver">PDE Solver</button>
-        <button class="chip" type="button" data-filter="Physics-Informed Neural Networks">Physics-Informed Neural Networks</button>
-        <button class="chip" type="button" data-filter="Tutorial">Tutorial</button>
-        <button class="chip" type="button" data-filter="Visualization">Visualization</button></div>
+      <div class="chips" id="chips">        <button class="chip chip--active" type="button" aria-pressed="true" data-filter="all">All</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="CAD">CAD</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Mesh">Mesh</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Others">Others</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="PDE Solver">PDE Solver</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Physics-Informed Neural Networks">Physics-Informed Neural Networks</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Tutorial">Tutorial</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Visualization">Visualization</button></div>
     </nav>
 
     <main class="content" id="content">
@@ -592,7 +592,9 @@
       </article>
       </div>
     </section>
-      <p class="empty" id="empty" hidden>No entry matches your search.</p>
+      <p class="empty" id="empty" role="status" hidden>
+        No entry matches your search.
+      </p>
     </main>
 
     <footer class="footer">
