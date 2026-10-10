@@ -67,6 +67,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "cmccomb",
+      "name": "Chris McComb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6705753?v=4",
+      "profile": "http://www.cmccomb.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
