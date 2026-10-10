@@ -1,0 +1,620 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Awesome Finite Elements — Gallery</title>
+    <meta
+      name="description"
+      content="A curated gallery of tools, projects and resources for Finite Element Analysis (FEA) software for structural engineering."
+    />
+    <link
+      rel="icon"
+      href="https://upload.wikimedia.org/wikipedia/commons/4/4a/FAE_visualization.jpg"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <img
+        class="hero__logo"
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4a/FAE_visualization.jpg"
+        alt="Finite element visualization"
+        width="120"
+        height="120"
+      />
+      <h1 class="hero__title">Awesome Finite Elements</h1>
+      <p class="hero__tagline">
+        A curated collection of tools, projects and resources for Finite Element
+        Analysis (FEA) software for structural engineering.
+      </p>
+      <p class="hero__stats">
+        <strong>36</strong> entries in
+        <strong>7</strong> categories
+      </p>
+      <p class="hero__links">
+        <a
+          class="button"
+          href="https://github.com/tkoyama010/awesome-finite-elements"
+          >Repository</a
+        >
+        <a
+          class="button button--ghost"
+          href="https://github.com/tkoyama010/awesome-finite-elements/blob/main/CONTRIBUTING.md"
+          >Contribute</a
+        >
+      </p>
+    </header>
+
+    <nav class="toolbar" aria-label="Filter the gallery">
+      <label class="search">
+        <span class="search__label">Search the list</span>
+        <input
+          id="search"
+          class="search__input"
+          type="search"
+          placeholder="Search projects, e.g. solver, mesh, python…"
+          autocomplete="off"
+        />
+      </label>
+      <div class="chips" id="chips">        <button class="chip chip--active" type="button" aria-pressed="true" data-filter="all">All</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="CAD">CAD</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Mesh">Mesh</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Others">Others</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="PDE Solver">PDE Solver</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Physics-Informed Neural Networks">Physics-Informed Neural Networks</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Tutorial">Tutorial</button>
+        <button class="chip" type="button" aria-pressed="false" data-filter="Visualization">Visualization</button></div>
+    </nav>
+
+    <main class="content" id="content">
+          <section class="section" id="cad" data-category="CAD">
+      <h2 class="section__title">
+        CAD
+        <span class="section__count">4</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="CAD" data-search="build123d a python cad modeling library for parametric 3d design, built on occt and the cadquery ecosystem. cad">
+        <a class="card__link" href="https://github.com/gumyr/build123d" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 58">
+            <span class="card__monogram" aria-hidden="true">B</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/gumyr/build123d" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">build123d</h3>
+            <p class="card__description">A Python CAD modeling library for parametric 3D design, built on OCCT and the CadQuery ecosystem.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="CAD" data-search="cadquery a python parametric cad scripting framework based on occt cad">
+        <a class="card__link" href="https://cadquery.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 78">
+            <span class="card__monogram" aria-hidden="true">C</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">CadQuery</h3>
+            <p class="card__description">A python parametric CAD scripting framework based on OCCT</p>
+            <p class="card__meta">cadquery.readthedocs.io</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="CAD" data-search="freecad a free and opensource multiplatform 3d parametric modeler. cad">
+        <a class="card__link" href="https://www.freecad.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 226">
+            <span class="card__monogram" aria-hidden="true">F</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">FreeCAD</h3>
+            <p class="card__description">A free and opensource multiplatform 3D parametric modeler.</p>
+            <p class="card__meta">freecad.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="CAD" data-search="shapely manipulation and analysis of geometric objects. cad">
+        <a class="card__link" href="https://github.com/shapely/shapely" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 6">
+            <span class="card__monogram" aria-hidden="true">S</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/shapely/shapely" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Shapely</h3>
+            <p class="card__description">Manipulation and analysis of geometric objects.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="mesh" data-category="Mesh">
+      <h2 class="section__title">
+        Mesh
+        <span class="section__count">7</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Mesh" data-search="caexfer rust library and cli for validating and transferring finite-element meshes and results across supported cae formats mesh">
+        <a class="card__link" href="https://github.com/cmccomb/caexfer" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 14">
+            <span class="card__monogram" aria-hidden="true">C</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/cmccomb/caexfer" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">caexfer</h3>
+            <p class="card__description">Rust library and CLI for validating and transferring finite-element meshes and results across supported CAE formats</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Mesh" data-search="gmsh a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. mesh">
+        <a class="card__link" href="https://gitlab.onelab.info/gmsh/gmsh" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 39">
+            <span class="card__monogram" aria-hidden="true">G</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Gmsh</h3>
+            <p class="card__description">A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.</p>
+            <p class="card__meta">gitlab.onelab.info</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Mesh" data-search="netgen/ngsolve netgen/ngsolve is a high performance multiphysics finite element software. it is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. due to its flexible python interface new physical equations and solution algorithms can be implemented easily. mesh">
+        <a class="card__link" href="https://ngsolve.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 246">
+            <span class="card__monogram" aria-hidden="true">N</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Netgen/NGSolve</h3>
+            <p class="card__description">Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily.</p>
+            <p class="card__meta">ngsolve.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Mesh" data-search="pygimli geophysical inversion and modeling library 🌍 mesh">
+        <a class="card__link" href="https://github.com/gimli-org/gimli" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 275">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/gimli-org/gimli" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">pyGIMLi</h3>
+            <p class="card__description">Geophysical Inversion and Modeling Library 🌍</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Mesh" data-search="pygmsh pygmsh combines the power of gmsh with the versatility of python. it provides useful abstractions from gmsh&#x27;s own python interface so you can create complex geometries more easily. mesh">
+        <a class="card__link" href="https://github.com/nschloe/pygmsh" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 304">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/nschloe/pygmsh" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">pygmsh</h3>
+            <p class="card__description">pygmsh combines the power of Gmsh with the versatility of Python. It provides useful abstractions from Gmsh&#x27;s own Python interface so you can create complex geometries more easily.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Mesh" data-search="scikit-gmsh a python package for smoothly connecting pyvista and gmsh. mesh">
+        <a class="card__link" href="https://github.com/pyvista/scikit-gmsh" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 43">
+            <span class="card__monogram" aria-hidden="true">S</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/pyvista/scikit-gmsh" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">scikit-gmsh</h3>
+            <p class="card__description">A Python package for smoothly connecting PyVista and Gmsh.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Mesh" data-search="t8code parallel algorithms and data structures for tree-based amr with arbitrary element shapes. mesh">
+        <a class="card__link" href="https://github.com/DLR-AMR/t8code" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 223">
+            <span class="card__monogram" aria-hidden="true">T</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/DLR-AMR/t8code" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">t8code</h3>
+            <p class="card__description">Parallel algorithms and data structures for tree-based AMR with arbitrary element shapes.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="others" data-category="Others">
+      <h2 class="section__title">
+        Others
+        <span class="section__count">1</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Others" data-search="defelement an encyclopedia of finite element definitions others">
+        <a class="card__link" href="https://defelement.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 265">
+            <span class="card__monogram" aria-hidden="true">D</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">DefElement</h3>
+            <p class="card__description">an encyclopedia of finite element definitions</p>
+            <p class="card__meta">defelement.org</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="pde-solver" data-category="PDE Solver">
+      <h2 class="section__title">
+        PDE Solver
+        <span class="section__count">18</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="PDE Solver" data-search="agentfem python finite-element workflows built on fenicsx for structural mechanics, heat transfer, and human–ai collaboration pde solver">
+        <a class="card__link" href="https://github.com/haoming-luo/agentfem" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 351">
+            <span class="card__monogram" aria-hidden="true">A</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/haoming-luo/agentfem" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">AgentFEM</h3>
+            <p class="card__description">Python finite-element workflows built on FEniCSx for structural mechanics, heat transfer, and human–AI collaboration</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="dolfinx next generation fenics problem solving environment pde solver">
+        <a class="card__link" href="https://github.com/FEniCS/dolfinx" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 36">
+            <span class="card__monogram" aria-hidden="true">D</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/FEniCS/dolfinx" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">dolfinx</h3>
+            <p class="card__description">Next generation FEniCS problem solving environment</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="feenox cloud-first free no-fee no-x unix-like finite-element(ish) computational engineering tool. pde solver">
+        <a class="card__link" href="https://github.com/seamplex/feenox" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 221">
+            <span class="card__monogram" aria-hidden="true">F</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/seamplex/feenox" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">FeenoX</h3>
+            <p class="card__description">Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="felupe 🔍 finite element analysis for continuum mechanics of solid bodies pde solver">
+        <a class="card__link" href="https://felupe.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 217">
+            <span class="card__monogram" aria-hidden="true">F</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">FElupe</h3>
+            <p class="card__description">🔍 finite element analysis for continuum mechanics of solid bodies</p>
+            <p class="card__meta">felupe.readthedocs.io</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="femwell fem mode solver for photonic waveguides pde solver">
+        <a class="card__link" href="https://github.com/HelgeGehring/femwell" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 356">
+            <span class="card__monogram" aria-hidden="true">F</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/HelgeGehring/femwell" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Femwell</h3>
+            <p class="card__description">FEM mode solver for photonic waveguides</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="getfem framework for solving systems of coupled nonlinear pdes. pde solver">
+        <a class="card__link" href="https://getfem.org" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 144">
+            <span class="card__monogram" aria-hidden="true">G</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">GetFEM</h3>
+            <p class="card__description">Framework for solving systems of coupled nonlinear PDEs.</p>
+            <p class="card__meta">getfem.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="gridap.jl grid-based approximation of partial differential equations in julia pde solver">
+        <a class="card__link" href="https://github.com/gridap/Gridap.jl" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 139">
+            <span class="card__monogram" aria-hidden="true">G</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/gridap/Gridap.jl" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Gridap.jl</h3>
+            <p class="card__description">Grid-based approximation of partial differential equations in Julia</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="mfem lightweight, general, scalable c++ library for finite element methods pde solver">
+        <a class="card__link" href="https://mfem.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 293">
+            <span class="card__monogram" aria-hidden="true">M</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">MFEM</h3>
+            <p class="card__description">Lightweight, general, scalable C++ library for finite element methods</p>
+            <p class="card__meta">mfem.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="ppf-contact-solver a contact solver for physics-based simulations involving shells, solids and rods. pde solver">
+        <a class="card__link" href="https://github.com/st-tech/ppf-contact-solver" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 31">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/st-tech/ppf-contact-solver" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">ppf-contact-solver</h3>
+            <p class="card__description">A contact solver for physics-based simulations involving shells, solids and rods.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="pyelmer a python interface to elmer. pde solver">
+        <a class="card__link" href="https://github.com/nemocrys/pyelmer" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 46">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/nemocrys/pyelmer" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">pyelmer</h3>
+            <p class="card__description">A python interface to Elmer.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="pymapdl the pymapdl project supports pythonic access to mapdl. pde solver">
+        <a class="card__link" href="https://github.com/ansys/pymapdl" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 207">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/ansys/pymapdl" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">PyMAPDL</h3>
+            <p class="card__description">The PyMAPDL project supports Pythonic access to MAPDL.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="qf solver open-source python finite-element solver for structural mechanics and dynamics, with explicit verification and reproducibility evidence pde solver">
+        <a class="card__link" href="https://github.com/emptiesvoid-cloud/QF_solver" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 98">
+            <span class="card__monogram" aria-hidden="true">Q</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/emptiesvoid-cloud/QF_solver" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">QF Solver</h3>
+            <p class="card__description">Open-source Python finite-element solver for structural mechanics and dynamics, with explicit verification and reproducibility evidence</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="scikit-fem simple finite element assemblers pde solver">
+        <a class="card__link" href="https://scikit-fem.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 284">
+            <span class="card__monogram" aria-hidden="true">S</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">scikit-fem</h3>
+            <p class="card__description">Simple finite element assemblers</p>
+            <p class="card__meta">scikit-fem.readthedocs.io</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="scikit-topt scikit topology optimization with scipy pde solver">
+        <a class="card__link" href="https://github.com/kevin-tofu/scikit-topt" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 67">
+            <span class="card__monogram" aria-hidden="true">S</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/kevin-tofu/scikit-topt" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">scikit-topt</h3>
+            <p class="card__description">Scikit Topology Optimization with SciPy</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="symfem a symbolic finite element definition library pde solver">
+        <a class="card__link" href="https://symfem.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 265">
+            <span class="card__monogram" aria-hidden="true">S</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Symfem</h3>
+            <p class="card__description">A symbolic finite element definition library</p>
+            <p class="card__meta">symfem.readthedocs.io</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="topopt-rs rust library for 2d structural topology optimization using finite-element analysis, inspired by sigmund&#x27;s 99-line matlab code pde solver">
+        <a class="card__link" href="https://github.com/cmccomb/topopt-rs" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 232">
+            <span class="card__monogram" aria-hidden="true">T</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/cmccomb/topopt-rs" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">topopt-rs</h3>
+            <p class="card__description">Rust library for 2D structural topology optimization using finite-element analysis, inspired by Sigmund&#x27;s 99-line MATLAB code</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="trussme python library for linear truss analysis and sizing optimization, including member forces, deflections, mass, and safety factors pde solver">
+        <a class="card__link" href="https://github.com/cmccomb/TrussMe" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 3">
+            <span class="card__monogram" aria-hidden="true">T</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/cmccomb/TrussMe" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">TrussMe</h3>
+            <p class="card__description">Python library for linear truss analysis and sizing optimization, including member forces, deflections, mass, and safety factors</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="PDE Solver" data-search="xara a batteries-included python package for fast nonlinear finite element analysis (solid mechanics) pde solver">
+        <a class="card__link" href="https://github.com/peer-open-source/xara" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 36">
+            <span class="card__monogram" aria-hidden="true">X</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/peer-open-source/xara" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Xara</h3>
+            <p class="card__description">A batteries-included Python package for fast nonlinear finite element analysis (solid mechanics)</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="physics-informed-neural-networks" data-category="Physics-Informed Neural Networks">
+      <h2 class="section__title">
+        Physics-Informed Neural Networks
+        <span class="section__count">1</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Physics-Informed Neural Networks" data-search="pinns_for_comp_mech implementation of physics-informed neural networks for computational mechanics based on the deepxde package. physics-informed neural networks">
+        <a class="card__link" href="https://github.com/imcs-compsim/pinns_for_comp_mech" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 208">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/imcs-compsim/pinns_for_comp_mech" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">pinns_for_comp_mech</h3>
+            <p class="card__description">Implementation of Physics-Informed Neural Networks for Computational Mechanics based on the DeepXDE package.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="tutorial" data-category="Tutorial">
+      <h2 class="section__title">
+        Tutorial
+        <span class="section__count">3</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Tutorial" data-search="comet-fenicsx computational mechanics numerical tours. tutorial">
+        <a class="card__link" href="https://bleyerj.github.io/comet-fenicsx/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 253">
+            <span class="card__monogram" aria-hidden="true">C</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">comet-fenicsx</h3>
+            <p class="card__description">COmputational MEchanics numerical Tours.</p>
+            <p class="card__meta">bleyerj.github.io</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Tutorial" data-search="fenics-sz jupyter book and computational repository for modeling subduction zones using fenicsx. tutorial">
+        <a class="card__link" href="https://github.com/cianwilson/fenics-sz" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 194">
+            <span class="card__monogram" aria-hidden="true">F</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/cianwilson/fenics-sz" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">fenics-sz</h3>
+            <p class="card__description">Jupyter Book and computational repository for modeling subduction zones using FEniCSx.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Tutorial" data-search="the dolfinx tutorial this is the source code for the dolfinx-tutorial webpage. tutorial">
+        <a class="card__link" href="https://github.com/jorgensd/dolfinx-tutorial" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 1">
+            <span class="card__monogram" aria-hidden="true">T</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/jorgensd/dolfinx-tutorial" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">The DOLFINx tutorial</h3>
+            <p class="card__description">This is the source code for the dolfinx-tutorial webpage.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="visualization" data-category="Visualization">
+      <h2 class="section__title">
+        Visualization
+        <span class="section__count">2</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Visualization" data-search="pyvista 3d plotting and mesh analysis through a streamlined interface for vtk visualization">
+        <a class="card__link" href="https://docs.pyvista.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 0">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">PyVista</h3>
+            <p class="card__description">3D plotting and mesh analysis through a streamlined interface for VTK</p>
+            <p class="card__meta">docs.pyvista.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Visualization" data-search="vedo a python module for scientific analysis of 3d data based on vtk and numpy visualization">
+        <a class="card__link" href="https://github.com/marcomusy/vedo" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 70">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-finite-elements/marcomusy/vedo" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">vedo</h3>
+            <p class="card__description">A python module for scientific analysis of 3D data based on VTK and Numpy</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+      <p class="empty" id="empty" role="status" hidden>
+        No entry matches your search.
+      </p>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Generated from
+        <a
+          href="https://github.com/tkoyama010/awesome-finite-elements/blob/main/README.md"
+          >README.md</a
+        >. Content released under
+        <a
+          href="https://github.com/tkoyama010/awesome-finite-elements/blob/main/LICENSE"
+          >CC0 1.0</a
+        >.
+      </p>
+      <p>
+        Preview images are served by GitHub. Missing something? Open a pull
+        request.
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
