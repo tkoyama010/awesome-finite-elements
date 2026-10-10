@@ -1,5 +1,7 @@
 # Awesome Finite Element Method (FEM) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![GitHub Pages](https://img.shields.io/github/deployments/tkoyama010/awesome-finite-elements/github-pages?label=github%20pages)](https://tkoyama010.github.io/awesome-finite-elements/)
+
 <h3 align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/FAE_visualization.jpg" width="30%">
 </h3>
@@ -30,12 +32,14 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## CAD
 
+- [build123d](https://github.com/gumyr/build123d) – A Python CAD modeling library for parametric 3D design, built on OCCT and the CadQuery ecosystem.
 - [CadQuery](https://cadquery.readthedocs.io/en/latest/) – A python parametric CAD scripting framework based on OCCT
 - [FreeCAD](https://www.freecad.org/) – A free and opensource multiplatform 3D parametric modeler.
 - [Shapely](https://github.com/shapely/shapely) – Manipulation and analysis of geometric objects.
 
 ## Mesh
 
+- [caexfer](https://github.com/cmccomb/caexfer) – Rust library and CLI for validating and transferring finite-element meshes and results across supported CAE formats
 - [Gmsh](https://gitlab.onelab.info/gmsh/gmsh) – A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
 - [Netgen/NGSolve](https://ngsolve.org/) – Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily.
 - [pyGIMLi](https://github.com/gimli-org/gimli) – Geophysical Inversion and Modeling Library 🌍
@@ -66,6 +70,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with SciPy
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
 - [topopt-rs](https://github.com/cmccomb/topopt-rs) – Rust library for 2D structural topology optimization using finite-element analysis, inspired by Sigmund's 99-line MATLAB code
+- [TrussMe](https://github.com/cmccomb/TrussMe) – Python library for linear truss analysis and sizing optimization, including member forces, deflections, mass, and safety factors
 - [Xara](https://github.com/peer-open-source/xara) – A batteries-included Python package for fast nonlinear finite element analysis (solid mechanics) ![Python](media/icon/python.png)
 
 ## Physics-Informed Neural Networks
