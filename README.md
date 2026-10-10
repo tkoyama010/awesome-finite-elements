@@ -46,6 +46,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Others
 
 - [DefElement](https://defelement.org/) – an encyclopedia of finite element definitions
+- [PrePoMax](https://prepomax.fs.um.si/) – A free pre- and post-processor for the CalculiX finite element solver, scriptable via a command-line interface and a Python/.NET API.
 
 ## PDE Solver
 
