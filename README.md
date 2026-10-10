@@ -1,5 +1,7 @@
 # Awesome Finite Element Method (FEM) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![GitHub Pages](https://img.shields.io/github/deployments/tkoyama010/awesome-finite-elements/github-pages?label=github%20pages)](https://tkoyama010.github.io/awesome-finite-elements/)
+
 <h3 align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/FAE_visualization.jpg" width="30%">
 </h3>
