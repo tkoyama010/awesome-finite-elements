@@ -64,6 +64,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [scikit-fem](https://scikit-fem.readthedocs.io/en/latest/) – Simple finite element assemblers
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with SciPy
 - [Symfem](https://symfem.readthedocs.io/en/latest/) – A symbolic finite element definition library
+- [topopt-rs](https://github.com/cmccomb/topopt-rs) – Rust library for 2D structural topology optimization using finite-element analysis, inspired by Sigmund's 99-line MATLAB code
 - [Xara](https://github.com/peer-open-source/xara) – A batteries-included Python package for fast nonlinear finite element analysis (solid mechanics) ![Python](media/icon/python.png)
 
 ## Physics-Informed Neural Networks
