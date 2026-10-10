@@ -36,6 +36,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Mesh
 
+- [caexfer](https://github.com/cmccomb/caexfer) – Rust library and CLI for validating and transferring finite-element meshes and results across supported CAE formats
 - [Gmsh](https://gitlab.onelab.info/gmsh/gmsh) – A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
 - [Netgen/NGSolve](https://ngsolve.org/) – Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python interface new physical equations and solution algorithms can be implemented easily.
 - [pyGIMLi](https://github.com/gimli-org/gimli) – Geophysical Inversion and Modeling Library 🌍
