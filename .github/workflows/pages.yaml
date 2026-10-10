@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 permissions: {}
 concurrency:
-  group: pages-${{ github.ref }}
+  group: pages
   cancel-in-progress: false
 jobs:
   build-site:

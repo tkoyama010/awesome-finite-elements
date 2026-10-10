@@ -24,6 +24,7 @@ TRAILING_IMAGE = re.compile(r"\s*!\[[^\]]*\]\([^)]*\)\s*$")
 GITHUB_REPO = re.compile(
     r"^https://github\.com/(?P<owner>[^/]+)/(?P<repo>[^/#?]+)/?$",
 )
+SAFE_SCHEMES = frozenset({"http", "https"})
 NON_ALNUM = re.compile(r"[^a-z0-9]+")
 
 # The table of contents is generated from the headings below it, so its list
@@ -84,6 +85,12 @@ class Category:
         return NON_ALNUM.sub("-", self.title.lower()).strip("-")
 
 
+def is_safe_url(url: str) -> bool:
+    """Reject URL schemes that are unsafe to embed as clickable links."""
+    parts = urlsplit(url)
+    return parts.scheme in SAFE_SCHEMES and bool(parts.netloc)
+
+
 def parse_readme(readme: Path) -> list[Category]:
     """Collect the entries of every README section, keeping the file order."""
     categories: list[Category] = []
@@ -105,6 +112,9 @@ def parse_readme(readme: Path) -> list[Category]:
             continue
         entry = ENTRY.match(line)
         if entry is not None:
+            if not is_safe_url(entry["url"]):
+                logger.warning("Skipping entry with unsafe URL: %s", entry["url"])
+                continue
             entries.append(
                 Entry(
                     name=entry["name"],
@@ -162,7 +172,8 @@ def render_filters(categories: list[Category]) -> str:
     titles = ["all", *(category.title for category in categories)]
     return "\n".join(
         f'        <button class="chip{" chip--active" if index == 0 else ""}" '
-        f'type="button" data-filter="{html.escape(title)}">'
+        f'type="button" aria-pressed="{"true" if index == 0 else "false"}" '
+        f'data-filter="{html.escape(title)}">'
         f"{html.escape('All' if index == 0 else title)}</button>"
         for index, title in enumerate(titles)
     )
