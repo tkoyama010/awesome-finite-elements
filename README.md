@@ -55,6 +55,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [AgentFEM](https://github.com/haoming-luo/agentfem) – Python finite-element workflows built on FEniCSx for structural mechanics, heat transfer, and human–AI collaboration
 - [dolfinx](https://github.com/FEniCS/dolfinx) – Next generation FEniCS problem solving environment
+- [EduBeam FEM](https://github.com/EduBeamApp/fem) – TypeScript finite element solver for 2D frames and trusses: linear statics and natural frequencies, used by the EduBeam web app
 - [FeenoX](https://github.com/seamplex/feenox) – Cloud-first free no-fee no-X uniX-like finite-element(ish) computational engineering tool.
 - [FElupe](https://felupe.readthedocs.io/en/latest/) – 🔍 finite element analysis for continuum mechanics of solid bodies
 - [Femwell](https://github.com/HelgeGehring/femwell) – FEM mode solver for photonic waveguides
